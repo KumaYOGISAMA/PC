@@ -1,16 +1,3 @@
-Water A|水場A
-Deep Water|深い水場
-Lotus Pads (Flowers)|蓮の葉（花）
-Purple Water|紫の水
-Water B (Surround Stonewall)|水場B（囲み石壁）
-Waterfall A (Shine Fall)|滝A（光る滝）
-Pond A (Rock Pond)|池A（岩池）
-Waterfall B (Grid Fall)|滝B（マス目滝）
-Water C (Tile)|水場C（タイル）
-Water D (Small Hole)|水場D（小穴）
-Water E (Water Surface)|水場E（水面）
-Water F (Water Footing)|水場F（足場）
-Water G (Surround Waterwall)|水場G（囲み水壁）
-Water H (Big Hole)|水場H（大穴）
-Pond B (Purple Rock Pond)|池B（紫岩池）
-Waterfall C (Purple Fall)|滝C（紫滝）
+version https://git-lfs.github.com/spec/v1
+oid sha256:fa6081f3f812f6133c7e061ecb651fc87ccb81f7247949d3574a70a36c5675a0
+size 650
